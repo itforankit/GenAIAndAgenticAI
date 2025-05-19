@@ -7,3 +7,7 @@ bs4
 faiss-cpu
 pandas
 anthropic
+matplotlib
+pydantic
+langgraph
+langchain_groq
