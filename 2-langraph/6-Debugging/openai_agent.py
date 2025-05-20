@@ -15,7 +15,6 @@ from dotenv import load_dotenv
 load_dotenv()
 
 os.environ["OPENAI_API_KEY"]=os.getenv("OPENAI_API_KEY")
-
 os.environ["LANGSMITH_API_KEY"]=os.getenv("LANGCHAIN_API_KEY")
 
 class State(TypedDict):
@@ -68,3 +67,8 @@ def make_alternative_graph():
     return agent
 
 agent=make_alternative_graph()
+
+
+# Run the code
+# open terminal -> go tto the directory where this file is located
+# run the command -> langgrapg dev
