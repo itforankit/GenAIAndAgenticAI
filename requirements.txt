@@ -12,3 +12,9 @@ pydantic
 langgraph
 langchain_groq
 langgraph-cli[inmem]
+defusedxml 
+pypdf
+bs4
+arxiv
+pymupdf
+wikipedia
