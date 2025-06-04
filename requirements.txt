@@ -22,3 +22,4 @@ langchain_huggingface
 langchain_google_genai
 ipywidgets
 boto3
+langchain-pinecone
