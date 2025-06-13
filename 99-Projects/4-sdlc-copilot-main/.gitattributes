@@ -1,3 +1,0 @@
-sdlc_complete_workflow.png filter=lfs diff=lfs merge=lfs -text
-notebooks/sdlc_workflow.png filter=lfs diff=lfs merge=lfs -text
-workflow.jpeg filter=lfs diff=lfs merge=lfs -text
